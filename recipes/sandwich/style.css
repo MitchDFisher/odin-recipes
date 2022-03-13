@@ -1,0 +1,31 @@
+h1 {
+  font-size: 60px;
+  color: palegoldenrod;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  text-decoration: underline;
+  text-decoration-style: double;
+  text-decoration-color: rgba(238, 232, 170, 0.767);
+}
+
+body {
+  color: rgb(245, 235, 124);
+  font-size: 20px;
+  font-family: cursive;
+}
+
+h3 {
+  font-size: 40px;
+  color: rgb(247, 239, 151);
+  text-decoration: line-through;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+h4 {
+  font-size: 40px;
+  color: rgb(247, 239, 151);
+  text-decoration: line-through;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}

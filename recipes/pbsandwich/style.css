@@ -1,0 +1,20 @@
+h1 {
+  color: rgb(228, 136, 17);
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 60px;
+  text-decoration-color: gold;
+  text-decoration: underline;
+}
+h3 {
+  color: rgb(228, 136, 17);
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 40px;
+  font-style: italic;
+  font-style: bold;
+  text-decoration: underline;
+  text-decoration-color: gold;
+}
+* {
+  color: rgb(226, 43, 180);
+  font-size: 17px;
+}
